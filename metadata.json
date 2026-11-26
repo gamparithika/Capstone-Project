@@ -1,0 +1,6 @@
+{
+  "name": "CardioPredict AI",
+  "description": "Early Prediction of Heart Disease Using Lifestyle and Health Indicators — B.Tech Computer Science Academic Capstone Project.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
